@@ -28,8 +28,6 @@ I’m a 2024 graduate from **NSUT Delhi** (formerly NSIT), with a **B.Tech in El
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ### 🧩 Frontend  
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)  
@@ -88,7 +86,7 @@ Manage your vehicles—upload images, edit info, and view detailed dashboards us
 
 - 🌍 **Portfolio**: [my-expertise.vercel.app](https://my-expertise.vercel.app/)
 - 💼 **LinkedIn**: [Shivam Raj Shekhar](https://www.linkedin.com/in/shivam-raj-shekhar-765231248/)
-- 📬 **Email**: shivamraj@example.com
+- 📬 **Email**: shekharshivam51@gmail.com
 
 Let’s collaborate on building something meaningful. I’m open to internships, full-time opportunities, or freelance collaborations. Let’s code something extraordinary!
 
