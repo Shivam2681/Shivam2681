@@ -76,7 +76,6 @@ Manage your vehicles—upload images, edit info, and view detailed dashboards us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam2681&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam2681&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
