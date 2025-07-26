@@ -8,7 +8,7 @@ Fresh graduate turned Software Engineer with a passion for creating meaningful t
 
 ## Who I Am
 
-Recently graduated from **NSUT Delhi** (formerly NSIT) in 2024 with a **B.Tech in Electronics & Communication Engineering**. While my degree was in ECE, my heart has always belonged to software—and that's where I've built my expertise.
+Recently graduated from **NSUT Delhi** (formerly NSIT) in 2024 with a **B.Tech in Electronics & Communication Engineering**. While my degree was in ECE, my heart has always belonged to software and that's where I've built my expertise.
 
 I'm the kind of engineer who gets excited about both the elegance of clean code and the impact it creates for users. Whether I'm architecting a backend system or polishing a user interface, I believe technology should feel intuitive and purposeful.
 
