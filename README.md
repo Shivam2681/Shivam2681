@@ -89,9 +89,3 @@ A complete vehicle management solution with image uploads, detailed analytics, a
 - **Portfolio**: [my-expertise.vercel.app](https://my-expertise.vercel.app/) *(See my work in action)*
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shivam-raj-shekhar-765231248/)
 - **Email**: shekharshivam51@gmail.com
-
-I'm actively seeking opportunities where I can contribute to meaningful projects and grow as a Software Engineer. Whether you're a startup looking to build your MVP, an established company seeking fresh perspectives, or a fellow developer interested in collaboration—I'd love to connect.
-
-*Currently available for full-time positions, exciting project collaborations, and freelance opportunities that challenge me to create something impactful.*
-
----
