@@ -22,38 +22,17 @@ I'm the kind of engineer who gets excited about both the elegance of clean code 
 
 ---
 
-## Technical Arsenal
+## Technical Skills
 
-### Core Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)  
+**Languages:** JavaScript, TypeScript, C++
 
-### Frontend Craft  
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  
-![Radix UI](https://img.shields.io/badge/Radix_UI-ffffff?style=flat&logo=uikit&logoColor=black)  
-![ShadCN](https://img.shields.io/badge/ShadCN-black?style=flat)
+**Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, Radix UI, ShadCN UI
 
-### Backend Engineering  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Drizzle ORM](https://img.shields.io/badge/DrizzleORM-purple?style=flat)  
-![Clerk Auth](https://img.shields.io/badge/Clerk_Auth-3F3F46?style=flat)
+**Backend:** Node.js, Express.js, Drizzle ORM, Clerk Authentication
 
-### Data & Infrastructure  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Neon DB](https://img.shields.io/badge/Neon_DB-0088FF?style=flat&logo=postgresql&logoColor=white)
+**Databases:** PostgreSQL, MongoDB, Neon DB
 
-### Developer Toolkit  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Tools & DevOps:** Git, GitHub, Postman, VS Code, Docker
 
 ---
 
@@ -110,5 +89,9 @@ A complete vehicle management solution with image uploads, detailed analytics, a
 - **Portfolio**: [my-expertise.vercel.app](https://my-expertise.vercel.app/) *(See my work in action)*
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shivam-raj-shekhar-765231248/)
 - **Email**: shekharshivam51@gmail.com
+
+I'm actively seeking opportunities where I can contribute to meaningful projects and grow as a Software Engineer. Whether you're a startup looking to build your MVP, an established company seeking fresh perspectives, or a fellow developer interested in collaboration—I'd love to connect.
+
+*Currently available for full-time positions, exciting project collaborations, and freelance opportunities that challenge me to create something impactful.*
 
 ---
