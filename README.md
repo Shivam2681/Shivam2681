@@ -18,7 +18,7 @@ I'm the kind of engineer who gets excited about both the elegance of clean code 
 - Creating user experiences that feel effortless
 - Learning continuously and sharing insights with fellow developers
 
-**My approach:** I combine engineering rigor with creative problem-solving. Every project is an opportunity to build something that matters—whether it's helping job seekers prepare for interviews or making education more accessible.
+**My approach:** I combine engineering rigor with creative problem-solving. Every project is an opportunity to build something that matters whether it's helping job seekers prepare for interviews or making education more accessible.
 
 ---
 
@@ -42,7 +42,7 @@ I'm the kind of engineer who gets excited about both the elegance of clean code 
 **[Explore the Code](https://github.com/Shivam2681/JobPrep-AI)**  
 *"Making interview prep less intimidating, one question at a time."*
 
-An AI-powered mock interview platform that I built to help fellow job seekers. It generates personalized technical questions, provides real-time feedback, and tracks progress—because landing that dream job shouldn't feel impossible.
+An AI-powered mock interview platform that I built to help fellow job seekers. It generates personalized technical questions, provides real-time feedback, and tracks progress because landing that dream job shouldn't feel impossible.
 
 **The challenge:** Job interviews can be nerve-wracking, especially technical ones.  
 **My solution:** Smart AI that adapts to your skill level and gives constructive feedback.
@@ -51,7 +51,7 @@ An AI-powered mock interview platform that I built to help fellow job seekers. I
 **[View Project](https://github.com/Shivam2681/Study-Notion)**  
 *"Education technology that actually works for everyone."*
 
-A comprehensive EdTech platform featuring course creation, secure payments, and intuitive dashboards. Built this to democratize learning—making quality education accessible and manageable for both instructors and students.
+A comprehensive EdTech platform featuring course creation, secure payments, and intuitive dashboards. Built this to democratize learning making quality education accessible and manageable for both instructors and students.
 
 **The vision:** Learning platforms that feel as smooth as your favorite social app.  
 **The execution:** Full-stack architecture with user experience at its core.
@@ -60,7 +60,7 @@ A comprehensive EdTech platform featuring course creation, secure payments, and 
 **[Check it Out](https://github.com/Shivam2681/PriceWiser)**  
 *"Because nobody should overpay for anything."*
 
-Smart price tracking for Amazon products using Next.js and intelligent web scraping. I created this to help people make informed purchasing decisions—it's like having a personal shopping assistant that never sleeps.
+Smart price tracking for Amazon products using Next.js and intelligent web scraping. I created this to help people make informed purchasing decisions it's like having a personal shopping assistant that never sleeps.
 
 **The insight:** Price fluctuations shouldn't be a mystery.  
 **The implementation:** Automated monitoring with clean, actionable notifications.
