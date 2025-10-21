@@ -8,7 +8,7 @@ Full Stack Developer with 1+ year of experience building enterprise SaaS platfor
 
 ## 👨‍💻 About Me
 
-Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi)**, formerly NSIT, with hands-on experience in developing production-ready applications. Specialized in React.js, Next.js, Node.js, and TypeScript with a strong foundation in Data Structures & Algorithms (500+ problems solved on LeetCode).
+Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi)**, formerly NSIT, with hands-on experience in developing production-ready applications. Specialized in React.js, Next.js, Node.js, and TypeScript with a strong foundation in Data Structures & Algorithms (500+ problems solved on LeetCode & CodeStudio).
 
 **What I Do:**
 - Build responsive, performant web applications using modern JavaScript frameworks
