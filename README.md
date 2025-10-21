@@ -2,7 +2,7 @@
 
 **Full Stack Developer | NSUT Delhi '24 | Building Scalable Web Applications**
 
-Full Stack Developer with 1+ year of experience building enterprise SaaS platforms and scalable web applications. Currently working as Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack—an AI-powered low-code platform serving enterprise clients.
+Full Stack Developer with 1+ year of experience building enterprise SaaS platforms and scalable web applications. Currently working as Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack an AI-powered low-code platform serving enterprise clients.
 
 ---
 
@@ -76,13 +76,13 @@ Complete vehicle management solution with image uploads, detailed analytics, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam2681&show_icons=true&theme=tokyonight" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Shivam2681&show_icons=true&theme=tokyonight" width="48%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam2681&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam2681&theme=tokyonight" width="48%" />
-</p>
+</p> -->
 
 ---
 
@@ -91,6 +91,5 @@ Complete vehicle management solution with image uploads, detailed analytics, and
 - **Portfolio:** [my-expertise.vercel.app](https://my-expertise.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/shivam-raj-shekhar-765231248](https://www.linkedin.com/in/shivam-raj-shekhar-765231248/)
 - **Email:** shekharshivam51@gmail.com
-- **LeetCode:** [leetcode.com/u/Shivam81](https://leetcode.com/u/Shivam81)
 
 💼 Open to full-time opportunities and freelance collaborations!
