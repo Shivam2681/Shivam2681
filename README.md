@@ -1,8 +1,12 @@
 # Shivam Raj Shekhar
 
-**Full Stack Developer | NSUT Delhi '24 | Building Scalable Web Applications**
+**Full Stack Developer | Scalable Web Scraping & AI Systems | NSUT'24**
 
-Full Stack Developer with 1+ year of experience building enterprise SaaS platforms and scalable web applications. Currently working as Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack an AI-powered low-code platform serving enterprise clients.
+Full Stack Developer with 1+ year of experience building scalable, production-grade web applications and AI-powered systems.
+
+Currently working as an Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack - an AI-powered low-code platform for enterprise automation.
+
+Focused on building real-world systems including large-scale web scraping pipelines, AI-integrated applications, and performant backend services.
 
 ---
 
@@ -11,10 +15,10 @@ Full Stack Developer with 1+ year of experience building enterprise SaaS platfor
 Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi)**, formerly NSIT, with hands-on experience in developing production-ready applications. Specialized in React.js, Next.js, Node.js, and TypeScript with a strong foundation in Data Structures & Algorithms (500+ problems solved on LeetCode & CodeStudio).
 
 **What I Do:**
-- Build responsive, performant web applications using modern JavaScript frameworks
-- Develop RESTful APIs and backend systems with Node.js and Express.js
-- Create seamless user experiences with React.js, Next.js, and Tailwind CSS
-- Optimize application performance and write clean, maintainable code
+- Design and build scalable backend systems and REST APIs
+- Develop resilient web scraping pipelines handling anti-bot mechanisms
+- Build AI-integrated applications using modern APIs (Gemini, etc.)
+- Create performant frontend systems using React and Next.js
 
 **Currently Working On:**
 - Contributing to GraniteStack (AI-powered low-code SaaS platform)
@@ -32,6 +36,14 @@ Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi
 **Databases:** MongoDB, PostgreSQL, MySQL, Drizzle ORM
 
 **Tools & DevOps:** Git, GitHub, Docker, AWS, Postman, VS Code
+
+### 💰 **PriceWiser** - Amazon Price Tracking Tool
+**Highlights:** Scalable scraping pipeline • Proxy rotation • AI insights • Real-time tracking
+**[Live Demo](https://price-wiser-coral.vercel.app/) • [Source Code](https://github.com/Shivam2681/PriceWiser)**
+
+AI-powered price tracking system with scalable web scraping using Playwright and proxy rotation. Handles anti-bot mechanisms, real-time tracking, and intelligent insights using AI.
+
+**Tech:** Next.js • Web Scraping • Email Integration • MongoDB
 
 ---
 
@@ -52,15 +64,6 @@ A comprehensive educational platform built with React.js, Node.js, Express.js, a
 AI-driven mock interview application using Next.js and PostgreSQL. Generates personalized interview questions using Google Gemini API with real-time feedback and progress tracking dashboard.
 
 **Tech:** Next.js • PostgreSQL • Drizzle ORM • Google Gemini API • Clerk Auth
-
----
-
-### 💰 **PriceWiser** - Amazon Price Tracking Tool
-**[Source Code](https://github.com/Shivam2681/PriceWiser)**
-
-Smart price monitoring application for Amazon products with automated tracking, email notifications, and historical price analytics using Next.js and web scraping.
-
-**Tech:** Next.js • Web Scraping • Email Integration • MongoDB
 
 ---
 
@@ -92,4 +95,3 @@ Complete vehicle management solution with image uploads, detailed analytics, and
 - **LinkedIn:** [linkedin.com/in/shivam-raj-shekhar-765231248](https://www.linkedin.com/in/shivam-raj-shekhar-765231248/)
 - **Email:** shekharshivam51@gmail.com
 
-💼 Open to full-time opportunities and freelance collaborations!
