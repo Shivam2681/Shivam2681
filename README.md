@@ -37,6 +37,8 @@ Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi
 
 **Tools & DevOps:** Git, GitHub, Docker, AWS, Postman, VS Code
 
+---
+
 ### 💰 **PriceWiser** - Amazon Price Tracking Tool
 **Highlights:** Scalable scraping pipeline • Proxy rotation • AI insights • Real-time tracking
 **[Live Demo](https://price-wiser-coral.vercel.app/) • [Source Code](https://github.com/Shivam2681/PriceWiser)**
