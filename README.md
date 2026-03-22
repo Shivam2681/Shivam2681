@@ -39,6 +39,8 @@ Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi
 
 ---
 
+## 🚀 Featured Projects
+
 ### 💰 **PriceWiser** - Amazon Price Tracking Tool
 **Highlights:** Scalable scraping pipeline • Proxy rotation • AI insights • Real-time tracking
 **[Live Demo](https://price-wiser-coral.vercel.app/) • [Source Code](https://github.com/Shivam2681/PriceWiser)**
@@ -48,8 +50,6 @@ AI-powered price tracking system with scalable web scraping using Playwright and
 **Tech:** Next.js • Web Scraping • Email Integration • MongoDB
 
 ---
-
-## 🚀 Featured Projects
 
 ### 🎓 **StudyNotion** - Full Stack Ed-Tech Platform
 **[Live Demo](https://study-notion-self-nine.vercel.app/) • [Source Code](https://github.com/Shivam2681/Study-Notion)**
