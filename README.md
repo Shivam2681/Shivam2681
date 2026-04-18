@@ -2,28 +2,23 @@
 
 **Full Stack Developer | Scalable Web Scraping & AI Systems | NSUT'24**
 
-Full Stack Developer with 1+ year of experience building scalable, production-grade web applications and AI-powered systems.
-
-Currently working as an Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack - an AI-powered low-code platform for enterprise automation.
-
-Focused on building real-world systems including large-scale web scraping pipelines, AI-integrated applications, and performant backend services.
+Building scalable web applications, intelligent scraping systems, and AI-powered products.
 
 ---
 
 ## 👨‍💻 About Me
 
-Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi)**, formerly NSIT, with hands-on experience in developing production-ready applications. Specialized in React.js, Next.js, Node.js, and TypeScript with a strong foundation in Data Structures & Algorithms (500+ problems solved on LeetCode & CodeStudio).
+Full Stack Developer with 1+ year of experience building production-ready applications.
 
-**What I Do:**
-- Design and build scalable backend systems and REST APIs
-- Develop resilient web scraping pipelines handling anti-bot mechanisms
-- Build AI-integrated applications using modern APIs (Gemini, etc.)
-- Create performant frontend systems using React and Next.js
+Currently working as an Associate Software Engineer at Thoughts2Binary, contributing to GraniteStack — an AI-powered low-code platform for enterprise automation.
 
-**Currently Working On:**
-- Contributing to GraniteStack (AI-powered low-code SaaS platform)
-- Building workforce management solutions and client projects
-- Enhancing skills in TypeScript, PostgreSQL, and cloud technologies
+Skilled in React, Next.js, Node.js, and TypeScript, with a strong foundation in DSA (500+ problems solved).
+
+## ⚡ What I Work On
+- Performant frontend systems using React & Next.js 
+- Scalable backend systems & REST APIs  
+- Web scraping pipelines with anti-bot handling  
+- AI-integrated applications (Gemini APIs, etc.)  
 
 ---
 
@@ -41,40 +36,19 @@ Recent B.Tech graduate from **Netaji Subhas University of Technology (NSUT Delhi
 
 ## 🚀 Featured Projects
 
+---
+
 ### 💰 **PriceWiser** - Amazon Price Tracking Tool
-**Highlights:** Scalable scraping pipeline • Proxy rotation • AI insights • Real-time tracking
+AI-powered price tracking system with scalable web scraping using Playwright and proxy rotation. Handles anti-bot mechanisms, real-time tracking, and intelligent insights using AI.
 **[Live Demo](https://price-wiser-coral.vercel.app/) • [Source Code](https://github.com/Shivam2681/PriceWiser)**
 
-AI-powered price tracking system with scalable web scraping using Playwright and proxy rotation. Handles anti-bot mechanisms, real-time tracking, and intelligent insights using AI.
-
-**Tech:** Next.js • Web Scraping • Email Integration • MongoDB
-
----
-
 ### 🎓 **StudyNotion** - Full Stack Ed-Tech Platform
+Full-stack ed-tech platform with authentication and course management. 
 **[Live Demo](https://study-notion-self-nine.vercel.app/) • [Source Code](https://github.com/Shivam2681/Study-Notion)**
 
-A comprehensive educational platform built with React.js, Node.js, Express.js, and MongoDB. Features secure authentication, role-based access control, course management, and Cloudinary integration for media handling.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • JWT • Cloudinary
-
----
-
 ### 🎯 **JobPrep-AI** - AI-Powered Interview Practice Tool
+AI-powered interview practice platform with real-time feedback and analytics.  
 **[Live Demo](https://ai-interview-mocker-rho.vercel.app/) • [Source Code](https://github.com/Shivam2681/JobPrep-AI)**
-
-AI-driven mock interview application using Next.js and PostgreSQL. Generates personalized interview questions using Google Gemini API with real-time feedback and progress tracking dashboard.
-
-**Tech:** Next.js • PostgreSQL • Drizzle ORM • Google Gemini API • Clerk Auth
-
----
-
-### 🚗 **Car Management System**
-**[Live Demo](https://car-management-wheat.vercel.app/)**
-
-Complete vehicle management solution with image uploads, detailed analytics, and intuitive dashboards built with Next.js, Drizzle ORM, and Clerk authentication.
-
-**Tech:** Next.js • Drizzle ORM • PostgreSQL • Clerk • Cloudinary
 
 ---
 
