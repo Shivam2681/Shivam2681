@@ -36,10 +36,8 @@ Skilled in React, Next.js, Node.js, and TypeScript, with a strong foundation in 
 
 ## 🚀 Featured Projects
 
----
-
 ### 💰 **PriceWiser** - Amazon Price Tracking Tool
-AI-powered price tracking system with scalable web scraping using Playwright and proxy rotation. Handles anti-bot mechanisms, real-time tracking, and intelligent insights using AI.
+Scalable price tracking system using Playwright, proxy rotation, and AI insights.
 **[Live Demo](https://price-wiser-coral.vercel.app/) • [Source Code](https://github.com/Shivam2681/PriceWiser)**
 
 ### 🎓 **StudyNotion** - Full Stack Ed-Tech Platform
